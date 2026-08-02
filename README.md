@@ -1,0 +1,1 @@
+This is a simple marketing website made for a breeder party called MKN KENNELS. MKN KENNELS is a premium dog breeder breeding high quality dogs while safegaurding the purity of the breed with no cross breedings.They breed healthy fit dogs and all of their clients are happy with their service. 
