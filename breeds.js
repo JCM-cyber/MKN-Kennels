@@ -1,18 +1,16 @@
 // Update availability here — changes apply to breed cards and the enquiry form.
 window.BREED_AVAILABILITY = {
   'breed-gs': {
-    status: 'limited',
-    label: 'limited - 2 left',
-    count: 2
+    status: 'available',
+    label: 'Available Now'
   },
   'breed-husky': {
-    status: 'limited',
-    label: 'Limited — 1 Left',
-    count: 1
+    status: 'available',
+    label: 'Available Now'
   },
   'breed-gr': {
-    status: 'waitlist',
-    label: 'Waitlist Open'
+    status: 'available',
+    label: 'Available Now'
   },
   'breed-lab': {
     status: 'available',
